@@ -3,3 +3,5 @@ en el dia de hoy los temas tratados son
 que es sistema de control de version
 
 como ignorar archivos 
+
+ignorar archivos
